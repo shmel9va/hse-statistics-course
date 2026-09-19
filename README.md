@@ -5,4 +5,4 @@ Repository containing homework assignments and coding exercises from the Higher 
 
 | Assignment | Topic | Solutions |
 |------------|-------|-----------|
-| Homework 1 | Empirical Cumulative Distribution Function and Sample Quantile Estimation (Построение выборочной функции распределения и оценка выборочной квантили) | [View](./homework-01/) |
+| Homework 1 | Empirical Cumulative Distribution Function and Sample Quantile Estimation (Построение выборочной функции распределения и оценка выборочной квантили) | [View](./homework-01/solution.py) |
