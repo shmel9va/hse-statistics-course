@@ -7,3 +7,4 @@ Repository containing homework assignments and coding exercises from the Higher 
 |------------|-------|-----------|
 | Homework 1 | Empirical Cumulative Distribution Function and Sample Quantile Estimation (Построение выборочной функции распределения и оценка выборочной квантили) | [View](./homework-01/solution.py) |
 | Homework 2 | Kernel Density Estimation (Построение ядерной оценки плотности) | [View](./homework-02/solution.py) |
+| Homework 3 | Maximum Likelihood Estimation (Оценка параметров методом максимального правдоподобия) | [View](./homework-03/solution.py) |
